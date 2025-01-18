@@ -37,7 +37,7 @@ The project involves:
 
 Below is the scatter plot comparing actual MPG values with predicted MPG values, along with the perfect fit line:
 
-![Actual vs Predicted MPG]([assets/Best fit line.png](https://github.com/hassan1030/Linear-Regression/blob/main/assets/Best%20fit%20line.png))
+![Actual vs Predicted MPG](assets/Best_fit_line.png)
 
 ---
 
